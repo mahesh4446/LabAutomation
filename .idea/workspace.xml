@@ -4,13 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a0fd99b-92a5-4028-8e7d-e87f9a20d368" name="Changes" comment="hi">
+    <list default="true" id="8a0fd99b-92a5-4028-8e7d-e87f9a20d368" name="Changes" comment="hii">
+      <change afterPath="$PROJECT_DIR$/src/oct/Lab3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oct/Lab4t.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,23 +30,29 @@
     &quot;assignee&quot;: &quot;mahesh4446&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/mahesh4446/Lab1.git&quot;,
-    &quot;accountId&quot;: &quot;6bef8489-d25e-4aea-8266-b7e7ee0900fa&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mahesh4446/LabAutomation.git",
+    "accountId": "6bef8489-d25e-4aea-8266-b7e7ee0900fa"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2q6HvrIY9YRJFI9NdsrhwxshjLf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Lab3.executor": "Run",
+    "Application.Lab4t.executor": "Run",
+    "Application.Task15.executor": "Run",
+    "Application.Tsak1510.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -69,7 +84,31 @@
       <option name="project" value="LOCAL" />
       <updated>1733977061796</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hi">
+      <option name="closed" value="true" />
+      <created>1735957470650</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735957470650</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hii">
+      <option name="closed" value="true" />
+      <created>1735957557070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735957557070</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hii">
+      <option name="closed" value="true" />
+      <created>1735970438366</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735970438366</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,7 +124,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hi" />
-    <option name="LAST_COMMIT_MESSAGE" value="hi" />
+    <MESSAGE value="hii" />
+    <option name="LAST_COMMIT_MESSAGE" value="hii" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
